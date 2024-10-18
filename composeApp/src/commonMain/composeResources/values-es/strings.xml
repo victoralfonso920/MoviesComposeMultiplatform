@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinMultiplatformProject</string>
+    <string name="back">Regresar</string>
+    <string name="original_language">Idioma Original</string>
+    <string name="original_title">Título</string>
+    <string name="popularity">Popularidad</string>
+    <string name="release_date">Fecha de Estreno</string>
+    <string name="vote_average">Promedio de Votos</string>
+</resources>
